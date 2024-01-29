@@ -1,1 +1,1 @@
-This is my Python repo
+This is a readme for ALX-higherlevel programing python.
